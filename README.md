@@ -1,93 +1,92 @@
-<h1 align="center">🚀 Style Project</h1>
+<h1 align="center">Hi 👋, I'm Seng Sidomanatt</h1>
+<h3 align="center">Aspiring Full-Stack Web Developer from Cambodia 🇰🇭</h3>
 
 <p align="center">
-  A modern and responsive web project built with clean code and simple design.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-success" />
-  <img src="https://img.shields.io/badge/Version-1.0-blue" />
-  <img src="https://img.shields.io/badge/License-MIT-orange" />
+  <a href="https://seng-sidomanatt-web.netlify.app/">🌐 Portfolio</a> •
+  <a href="https://github.com/your-github-username">GitHub</a>
 </p>
 
 ---
 
-## 📌 About
+## 👨‍💻 About Me
 
-This project demonstrates modern web development practices with a clean UI and organized code structure.
+I'm a passionate web developer who enjoys building responsive websites and RESTful APIs. I'm continuously improving my frontend and backend development skills while creating real-world projects.
 
-## ✨ Features
-
-- 🎨 Responsive Design
-- ⚡ Fast Performance
-- 📱 Mobile Friendly
-- 🔒 Clean Code
-- 🌙 Modern UI
+- 🌱 Currently learning **Node.js, Express.js, MySQL, Vue.js**
+- 💻 Interested in **Full-Stack Web Development**
+- 🚀 Love building clean and user-friendly web applications
+- 📚 Always learning new technologies
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Tech Stack
 
+### Frontend
 - HTML5
 - CSS3
-- JavaScript
 - Bootstrap
-- Git & GitHub
+- JavaScript
+- Vue.js
+
+### Backend
+- Node.js
+- Express.js
+- REST API
+
+### Database
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+- MySQL Workbench
 
 ---
 
-## 📂 Project Structure
+## 🚀 Featured Project
 
-```text
-project/
-│
-├── css/
-├── js/
-├── images/
-├── index.html
-└── README.md
-```
+### 🌐 Personal Portfolio
+
+A responsive personal portfolio showcasing my skills, projects, and contact information.
+
+🔗 **Live Demo**
+> https://seng-sidomanatt-web.netlify.app/
 
 ---
 
-## 🚀 Getting Started
+## 📈 GitHub Stats
 
-Clone the repository
+<p align="center">
 
-```bash
-git clone https://github.com/your-username/your-repository.git
-```
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight"/>
 
-Open the project
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight"/>
 
-```bash
-cd your-repository
-```
-
-Run with Live Server or open `index.html`.
+</p>
 
 ---
 
-## 📸 Preview
+## 📫 Contact
 
-> Add screenshots here.
+🌐 Portfolio
+> https://seng-sidomanatt-web.netlify.app/
+
+📧 Email
+> your-email@gmail.com
+
+💼 GitHub
+> https://github.com/your-github-username
 
 ---
 
-## 👨‍💻 Author
+## 💡 Quote
 
-**Your Name**
-
-- GitHub: https://github.com/your-username
-
----
-
-## ⭐ Support
-
-If you like this project, give it a ⭐ on GitHub.
+> "Code. Learn. Build. Repeat."
 
 ---
 
 <p align="center">
-Made with ❤️ by Your Name
+⭐ Thanks for visiting my profile!
 </p>
