@@ -1,92 +1,125 @@
-<h1 align="center">Hi 👋, I'm Seng Sidomanatt</h1>
-<h3 align="center">Aspiring Full-Stack Web Developer from Cambodia 🇰🇭</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://seng-sidomanatt-web.netlify.app/">🌐 Portfolio</a> •
-  <a href="https://github.com/your-github-username">GitHub</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:6dd5ed&height=220&section=header&text=Seng%20Sidomanatt&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Full-Stack%20Web%20Developer%20from%20Cambodia%20🇰🇭&descAlignY=58&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2A5298&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!+🐉;Code.+Learn.+Build.+Repeat.;Building+the+web%2C+one+line+at+a+time." alt="Typing SVG" />
+
+<p>
+  <a href="https://seng-sidomanatt-web.netlify.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit-2A5298?style=for-the-badge" /></a>
+  <a href="https://github.com/your-github-username"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" /></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
+</div>
+
+<div align="center">
+
+٭ ⋆｡°✩₊˚｡𓆙 ***inspired by the Naga of Angkor — guardian of rivers, wisdom & the web I build*** 𓆙｡˚₊✩°｡⋆ ٭
+
+</div>
+
+<br>
 
 ## 👨‍💻 About Me
 
-I'm a passionate web developer who enjoys building responsive websites and RESTful APIs. I'm continuously improving my frontend and backend development skills while creating real-world projects.
+I'm a passionate web developer who enjoys building responsive websites and RESTful APIs. I'm continuously sharpening my frontend and backend skills while shipping real-world projects.
 
 - 🌱 Currently learning **Node.js, Express.js, MySQL, Vue.js**
 - 💻 Interested in **Full-Stack Web Development**
-- 🚀 Love building clean and user-friendly web applications
-- 📚 Always learning new technologies
+- 🚀 Love building clean, user-friendly web applications
+- 📚 Always exploring new technologies
 
----
+<br>
 
 ## 🛠️ Tech Stack
 
-### Frontend
-- HTML5
-- CSS3
-- Bootstrap
-- JavaScript
-- Vue.js
+<table align="center">
+<tr>
+<td align="center" valign="top" width="25%">
 
-### Backend
-- Node.js
-- Express.js
-- REST API
+**Frontend**
 
-### Database
-- MySQL
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,vue" /><br><br>
+HTML5 · CSS3 · Bootstrap<br>JavaScript · Vue.js
 
-### Tools
-- Git
-- GitHub
-- VS Code
-- Postman
-- MySQL Workbench
+</td>
+<td align="center" valign="top" width="25%">
 
----
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" /><br><br>
+Node.js · Express.js<br>REST API
+
+</td>
+<td align="center" valign="top" width="25%">
+
+**Database**
+
+<img src="https://skillicons.dev/icons?i=mysql" /><br><br>
+MySQL
+
+</td>
+<td align="center" valign="top" width="25%">
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /><br><br>
+Git · GitHub · VS Code<br>Postman · MySQL Workbench
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ## 🚀 Featured Project
 
-### 🌐 Personal Portfolio
+<div align="center">
 
+### 🌐 Personal Portfolio
 A responsive personal portfolio showcasing my skills, projects, and contact information.
 
-🔗 **Live Demo**
-> https://seng-sidomanatt-web.netlify.app/
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-seng--sidomanatt--web.netlify.app-2A5298?style=for-the-badge)](https://seng-sidomanatt-web.netlify.app/)
 
----
+</div>
+
+<br>
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<div align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight"/>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true" />
+</div>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
+<br>
 
 ## 📫 Contact
 
-🌐 Portfolio
-> https://seng-sidomanatt-web.netlify.app/
+<div align="center">
 
-📧 Email
-> your-email@gmail.com
+| 🌐 Portfolio | 📧 Email | 💼 GitHub |
+|:---:|:---:|:---:|
+| [seng-sidomanatt-web.netlify.app](https://seng-sidomanatt-web.netlify.app/) | [your-email@gmail.com](mailto:your-email@gmail.com) | [@your-github-username](https://github.com/your-github-username) |
 
-💼 GitHub
-> https://github.com/your-github-username
+</div>
 
----
+<br>
+
+<div align="center">
 
 ## 💡 Quote
 
-> "Code. Learn. Build. Repeat."
+> *"Code. Learn. Build. Repeat."*
 
----
+<br>
 
-<p align="center">
-⭐ Thanks for visiting my profile!
-</p>
+⭐ **Thanks for visiting my profile!** ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6dd5ed,50:2a5298,100:1e3c72&height=120&section=footer" width="100%"/>
+
+</div>
