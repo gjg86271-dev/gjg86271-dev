@@ -84,23 +84,55 @@ A responsive personal portfolio showcasing my skills, projects, and contact info
 
 <br>
 
-## 🏆 Achievements
+##  
 
 <div align="center">
 
 ** Team Leader **
 Recognized for strong leadership and guiding my team throughout the course.
 
-<!-- Upload your photo to the repo (e.g. assets/team-leader.jpg) and update the path below -->
-<img src="./assets/team-leader.jpg" width="60%" alt="Team Leader recognition photo"/>
+<img src="./assets/photo_2026-09-15_23-27-53.jpg" width="60%" alt="Team Leader recognition photo"/>
 
 <br><br>
 
 **🎤 Project Presentation**
 Presenting our group project at ANT alongside my teammates.
 
-<!-- Upload your photo to the repo (e.g. assets/project-presentation.jpg) and update the path below -->
-<img src="./assets/project-presentation.jpg" width="60%" alt="Project presentation photo"/>
+<img src="./assets/photo_2026-09-15_23-28-17.jpg" width="60%" alt="Project presentation photo"/>
+
+</div>
+
+<br>
+
+## 📜 Certifications
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**JavaScript & Vue.js**
+<br>Dec 2025 – May 2026
+<br><img src="./photo_2026-09-15_23-28-04.jpg" width="100%" alt="JavaScript & Vue.js Certificate"/>
+
+</td>
+<td align="center" width="33%">
+
+**HTML5 + CSS3 + Bootstrap**
+<br>Jul 2025 – Nov 2025
+<br><img src="./photo_2026-09-15_23-28-07.jpg" width="100%" alt="HTML5 + CSS3 + Bootstrap Certificate"/>
+
+</td>
+<td align="center" width="33%">
+
+**Course Transcript**
+<br>HTML5 + CSS3 + Bootstrap
+<br><img src="./photo_2026-09-15_23-28-10.jpg" width="100%" alt="Transcript"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
