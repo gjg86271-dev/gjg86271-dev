@@ -88,7 +88,7 @@ A responsive personal portfolio showcasing my skills, projects, and contact info
 
 <div align="center">
 
-**🥇 Team Leader — ANT (Abstract of New Technology)**
+** Team Leader **
 Recognized for strong leadership and guiding my team throughout the course.
 
 <!-- Upload your photo to the repo (e.g. assets/team-leader.jpg) and update the path below -->
