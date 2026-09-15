@@ -26,6 +26,7 @@ I'm a passionate web developer who enjoys building responsive websites and RESTf
 - 💻 Interested in **Full-Stack Web Development**
 - 🚀 Love building clean, user-friendly web applications
 - 📚 Always exploring new technologies
+- 🏅 Recognized as **Team Leader** at ANT (Abstract of New Technology) — trusted to guide and support my teammates through the course
 
 <br>
 
@@ -78,6 +79,28 @@ Git · GitHub · VS Code<br>Postman · MySQL Workbench
 A responsive personal portfolio showcasing my skills, projects, and contact information.
 
 [![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-seng--sidomanatt--web.netlify.app-2A5298?style=for-the-badge)](https://seng-sidomanatt-web.netlify.app/)
+
+</div>
+
+<br>
+
+## 🏆 Achievements
+
+<div align="center">
+
+**🥇 Team Leader — ANT (Abstract of New Technology)**
+Recognized for strong leadership and guiding my team throughout the course.
+
+<!-- Upload your photo to the repo (e.g. assets/team-leader.jpg) and update the path below -->
+<img src="./assets/team-leader.jpg" width="60%" alt="Team Leader recognition photo"/>
+
+<br><br>
+
+**🎤 Project Presentation**
+Presenting our group project at ANT alongside my teammates.
+
+<!-- Upload your photo to the repo (e.g. assets/project-presentation.jpg) and update the path below -->
+<img src="./assets/project-presentation.jpg" width="60%" alt="Project presentation photo"/>
 
 </div>
 
