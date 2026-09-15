@@ -102,7 +102,7 @@ A responsive personal portfolio showcasing my skills, projects, and contact info
 
 | 🌐 Portfolio | 📧 Email | 💼 GitHub |
 |:---:|:---:|:---:|
-| [seng-sidomanatt-web.netlify.app](https://seng-sidomanatt-web.netlify.app/) | [sengsidomanatt@gmail.com](mailto:sengsidomanatt@gmail.com) | [@your-github-username](https://github.com/gjg86271-dev) |
+| [seng-sidomanatt-web.netlify.app](https://seng-sidomanatt-web.netlify.app/) | [sengsidomanatt@gmail.com](mailto:sengsidomanatt@gmail.com) | [@Seng Sidomanatt](https://github.com/gjg86271-dev) |
 
 </div>
 
