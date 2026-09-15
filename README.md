@@ -2,11 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:6dd5ed&height=220&section=header&text=Seng%20Sidomanatt&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Full-Stack%20Web%20Developer%20from%20Cambodia%20🇰🇭&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2A5298&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!+🐉;Code.+Learn.+Build.+Repeat.;Building+the+web%2C+one+line+at+a+time." alt="Typing SVG" />
-
 <p>
   <a href="https://seng-sidomanatt-web.netlify.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit-2A5298?style=for-the-badge" /></a>
-  <a href="https://github.com/sengsidomanatt"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/gjg86271-dev"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" /></a>
   <a href="mailto:sengsidomanatt@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -104,7 +102,7 @@ A responsive personal portfolio showcasing my skills, projects, and contact info
 
 | 🌐 Portfolio | 📧 Email | 💼 GitHub |
 |:---:|:---:|:---:|
-| [seng-sidomanatt-web.netlify.app](https://seng-sidomanatt-web.netlify.app/) | [your-email@gmail.com](mailto:your-email@gmail.com) | [@your-github-username](https://github.com/your-github-username) |
+| [seng-sidomanatt-web.netlify.app](https://seng-sidomanatt-web.netlify.app/) | [sengsidomanatt@gmail.com](mailto:sengsidomanatt@gmail.com) | [@your-github-username](https://github.com/gjg86271-dev) |
 
 </div>
 
