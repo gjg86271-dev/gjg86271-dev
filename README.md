@@ -91,14 +91,14 @@ A responsive personal portfolio showcasing my skills, projects, and contact info
 ** Team Leader **
 Recognized for strong leadership and guiding my team throughout the course.
 
-<img src="./assets/photo_2026-09-15_23-27-53.jpg" width="60%" alt="Team Leader recognition photo"/>
+<img src="./photo_2026-09-15_23-27-53.jpg" width="60%" alt="Team Leader recognition photo"/>
 
 <br><br>
 
 **🎤 Project Presentation**
 Presenting our group project at ANT alongside my teammates.
 
-<img src="./assets/photo_2026-09-15_23-28-17.jpg" width="60%" alt="Project presentation photo"/>
+<img src="./photo_2026-09-15_23-28-17.jpg" width="60%" alt="Project presentation photo"/>
 
 </div>
 
